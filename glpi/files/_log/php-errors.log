@@ -1,0 +1,65 @@
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+2017-11-07 09:20:44 [2@R108P06HVCI]
+  From Toolbox::deprecated() in C:\wamp64\www\glpi-9.2\glpi\inc\toolbox.class.php line 477
+  Zend\Loader\SplAutoloader has been dropped from GLPI. 
+2017-11-07 09:20:44 [2@R108P06HVCI]
+  Backtrace :
+  inc\toolbox.class.php:478                          Toolbox::backtrace()
+  inc\autoload.function.php:313                      Toolbox::deprecated()
+  :                                                  glpi_autoload()
+  plugins\fusioninventory\lib\autoload.php:6         spl_autoload_call()
+  plugins\fusioninventory\setup.php:61               include_once()
+  inc\plugin.class.php:257                           include_once()
+  inc\plugin.class.php:398                           Plugin->checkStates()
+  front\plugin.php:95                                Plugin->listPlugins()
+2017-11-07 09:48:32 [@R108P06HVCI]
+  From Toolbox::deprecated() in C:\wamp64\www\glpi-9.2\glpi\inc\toolbox.class.php line 477
+  Zend\Loader\SplAutoloader has been dropped from GLPI. 
+2017-11-07 09:48:32 [@R108P06HVCI]
+  Backtrace :
+  inc\toolbox.class.php:478                          Toolbox::backtrace()
+  inc\autoload.function.php:313                      Toolbox::deprecated()
+  :                                                  glpi_autoload()
+  plugins\fusioninventory\lib\autoload.php:6         spl_autoload_call()
+  plugins\fusioninventory\setup.php:61               include_once()
+  inc\plugin.class.php:257                           include_once()
+  inc\plugin.class.php:114                           Plugin->checkStates()
+  inc\includes.php:112                               Plugin->init()
+  index.php:60                                       include()
+2017-11-07 09:49:21 [2@R108P06HVCI]
+  From Toolbox::deprecated() in C:\wamp64\www\glpi-9.2\glpi\inc\toolbox.class.php line 477
+  Zend\Loader\SplAutoloader has been dropped from GLPI. 
+2017-11-07 09:49:21 [2@R108P06HVCI]
+  Backtrace :
+  inc\toolbox.class.php:478                          Toolbox::backtrace()
+  inc\autoload.function.php:313                      Toolbox::deprecated()
+  :                                                  glpi_autoload()
+  plugins\fusioninventory\lib\autoload.php:6         spl_autoload_call()
+  plugins\fusioninventory\setup.php:61               include_once()
+  inc\plugin.class.php:257                           include_once()
+  inc\plugin.class.php:398                           Plugin->checkStates()
+  front\plugin.php:95                                Plugin->listPlugins()
+2017-11-21 10:05:46 [@R108P06HVCI]
+  From Toolbox::deprecated() in C:\wamp64\www\glpi-9.2\glpi\inc\toolbox.class.php line 477
+  Zend\Loader\SplAutoloader has been dropped from GLPI. 
+2017-11-21 10:05:46 [@R108P06HVCI]
+  Backtrace :
+  inc\toolbox.class.php:478                          Toolbox::backtrace()
+  inc\autoload.function.php:313                      Toolbox::deprecated()
+  :                                                  glpi_autoload()
+  plugins\fusioninventory\lib\autoload.php:6         spl_autoload_call()
+  plugins\fusioninventory\setup.php:61               include_once()
+  inc\plugin.class.php:257                           include_once()
+  inc\plugin.class.php:114                           Plugin->checkStates()
+  inc\includes.php:112                               Plugin->init()
+  index.php:60                                       include()

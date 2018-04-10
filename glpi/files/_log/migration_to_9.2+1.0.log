@@ -1,0 +1,11 @@
+2017-11-28 10:09:27 [2@R108P06HVCI]
+0 seconde for "Installation of plugin FusionInventory" @ 2017-11-28 10:09:27 [2@R108P06HVCI]
+0 seconde for "Clean data from old installation of the plugin" @ 2017-11-28 10:09:27 [2@R108P06HVCI]
+0 seconde for "Clean rules from old installation of the plugin" @ 2017-11-28 10:09:37 [2@R108P06HVCI]
+10 secondes for "Creation tables in database" @ 2017-11-28 10:09:38 [2@R108P06HVCI]
+1 seconde for "Creation of folders" @ 2017-11-28 10:09:38 [2@R108P06HVCI]
+0 seconde for "Initialize profiles" @ 2017-11-28 10:09:38 [2@R108P06HVCI]
+0 seconde for "Initialize configuration" @ 2017-11-28 10:09:38 [2@R108P06HVCI]
+0 seconde for "Initialize agent TASKS" @ 2017-11-28 10:09:38 [2@R108P06HVCI]
+0 seconde for "Initialize cron task" @ 2017-11-28 10:09:39 [2@R108P06HVCI]
+1 seconde for "Create rules" @ 

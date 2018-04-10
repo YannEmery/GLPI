@@ -1,0 +1,52 @@
+2017-11-28 10:06:10 [2@R108P06HVCI]
+  *** MySQL query error:
+  SQL: SELECT *
+                FROM `glpi_plugin_fusioninventory_configs` WHERE `type`=\'users_id\'
+  Error: La table 'glpi.glpi_plugin_fusioninventory_configs' n'existe pas
+  Backtrace :
+  inc\commondbtm.class.php:331                       
+  plugins\fusioninventory\inc\config.class.php:302   CommonDBTM->find()
+  plugins\fusioninventory\inc\setup.class.php:75     PluginFusioninventoryConfig->getValue()
+  plugins\fusioninventory\hook.php:874               PluginFusioninventorySetup::uninstall()
+  inc\plugin.class.php:684                           plugin_fusioninventory_uninstall()
+  :                                                  Plugin->uninstall()
+  front\plugin.form.php:48                           call_user_func()
+2017-11-28 10:07:12 [2@R108P06HVCI]
+  *** MySQL query error:
+  SQL: SELECT *
+                FROM `glpi_plugin_fusioninventory_configs` WHERE `type`=\'users_id\'
+  Error: La table 'glpi.glpi_plugin_fusioninventory_configs' n'existe pas
+  Backtrace :
+  inc\commondbtm.class.php:331                       
+  plugins\fusioninventory\inc\config.class.php:302   CommonDBTM->find()
+  plugins\fusioninventory\inc\setup.class.php:75     PluginFusioninventoryConfig->getValue()
+  plugins\fusioninventory\hook.php:874               PluginFusioninventorySetup::uninstall()
+  inc\plugin.class.php:684                           plugin_fusioninventory_uninstall()
+  :                                                  Plugin->uninstall()
+  front\plugin.form.php:48                           call_user_func()
+2017-11-28 10:07:14 [2@R108P06HVCI]
+  *** MySQL query error:
+  SQL: SELECT *
+                FROM `glpi_plugin_fusioninventory_configs` WHERE `type`=\'users_id\'
+  Error: La table 'glpi.glpi_plugin_fusioninventory_configs' n'existe pas
+  Backtrace :
+  inc\commondbtm.class.php:331                       
+  plugins\fusioninventory\inc\config.class.php:302   CommonDBTM->find()
+  plugins\fusioninventory\inc\setup.class.php:75     PluginFusioninventoryConfig->getValue()
+  plugins\fusioninventory\hook.php:874               PluginFusioninventorySetup::uninstall()
+  inc\plugin.class.php:684                           plugin_fusioninventory_uninstall()
+  :                                                  Plugin->uninstall()
+  front\plugin.form.php:48                           call_user_func()
+2017-11-28 10:07:23 [2@R108P06HVCI]
+  *** MySQL query error:
+  SQL: SELECT *
+                FROM `glpi_plugin_fusioninventory_configs` WHERE `type`=\'users_id\'
+  Error: La table 'glpi.glpi_plugin_fusioninventory_configs' n'existe pas
+  Backtrace :
+  inc\commondbtm.class.php:331                       
+  plugins\fusioninventory\inc\config.class.php:302   CommonDBTM->find()
+  plugins\fusioninventory\inc\setup.class.php:75     PluginFusioninventoryConfig->getValue()
+  plugins\fusioninventory\hook.php:874               PluginFusioninventorySetup::uninstall()
+  inc\plugin.class.php:684                           plugin_fusioninventory_uninstall()
+  :                                                  Plugin->uninstall()
+  front\plugin.form.php:48                           call_user_func()
